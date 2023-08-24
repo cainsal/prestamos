@@ -1,7 +1,0 @@
-usuario: admin@gmail.com
-usuario: bcp2@gmail.com
-usuario: inter2@gmail.com
-usuario: bbva1@gmail.com
-usuario: bbva2@gmail.com
-usuario: efec1@gmail.com
-contraseña: 12345
